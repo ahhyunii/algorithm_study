@@ -159,7 +159,7 @@
 
 ---
 
-## Week 20 — 파이널 모의 코테
+## Week 20 — 4차 모의 코테
 - [백준 15686 치킨 배달](https://www.acmicpc.net/problem/15686)
 - [백준 16234 인구 이동](https://www.acmicpc.net/problem/16234)
 - [프로그래머스 메뉴 리뉴얼](https://school.programmers.co.kr/learn/courses/30/lessons/72411)
