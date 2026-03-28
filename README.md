@@ -5,6 +5,7 @@
 - 같은 주차 안에서 쉬운 문제부터 도전 문제까지 골고루 구성
 - 각 Cycle 마지막 주차는 모의 코테 형태로 진행
 - 최대한 직접 생각해서 풀어보기
+- 예전에 풀어봤던 문제라도 다시 풀어보기
 - 공식문서 참조 가능: [OpenJDK 11 공식문서](https://devdocs.programmers.co.kr/openjdk~11/)
 
 ## 디렉토리 구조 및 파일 명명 규칙
@@ -24,6 +25,30 @@
 ---
 
 # Cycle 1: 자료구조 기초
+
+## Week 1 — 문자열 기초 1 / 순회 / 빈도 / 조건 처리
+- [백준 1157 단어 공부](https://www.acmicpc.net/problem/1157)
+- [백준 2941 크로아티아 알파벳](https://www.acmicpc.net/problem/2941)
+- [백준 1316 그룹 단어 체커](https://www.acmicpc.net/problem/1316)
+- [백준 9996 한국이 그리울 땐 서버에 접속하지](https://www.acmicpc.net/problem/9996)
+
+---
+
+## Week 2 — 정렬 + 해시 기초 / 맵 / 셋 사용
+- [백준 7785 회사에 있는 사람](https://www.acmicpc.net/problem/7785)
+- [백준 1302 베스트셀러](https://www.acmicpc.net/problem/1302)
+- [백준 1764 듣보잡](https://www.acmicpc.net/problem/1764)
+- [백준 1620 나는야 포켓몬 마스터 이다솜](https://www.acmicpc.net/problem/1620)
+
+---
+
+## Week 3 — 스택 기초 / 괄호 / 상태 관리
+- [백준 9012 괄호](https://www.acmicpc.net/problem/9012)
+- [백준 4949 균형잡힌 세상](https://www.acmicpc.net/problem/4949)
+- [백준 5397 키로거](https://www.acmicpc.net/problem/5397)
+- [백준 1406 에디터](https://www.acmicpc.net/problem/1406)
+
+---
 
 ## Week 4 — 큐 / 덱 / 시뮬레이션
 - [백준 2164 카드2](https://www.acmicpc.net/problem/2164)
