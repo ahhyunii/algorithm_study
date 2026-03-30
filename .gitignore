@@ -1,0 +1,20 @@
+# IntelliJ
+.idea/
+*.iml
+
+# build
+out/
+build/
+target/
+
+# Java
+*.class
+
+# OS
+.DS_Store
+
+# logs
+*.log
+
+# 환경 변수
+.env
